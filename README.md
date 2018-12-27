@@ -1,2 +1,2 @@
-# intro_compsci
-Introduction to Computer Science in Python (Online Courses)
+# Introduction to Computer Science in Python
+Code assignments for an online class
